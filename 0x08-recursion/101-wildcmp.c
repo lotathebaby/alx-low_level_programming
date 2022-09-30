@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * wildcmp - function that compares two strings 
+ * wildcmp - function that compares two strings
  * @s1: first string
- * @s2: second string that contains * which can replace any string
- * Return: 1 if matching 0 otherwise
+ * @s2: second string that cointain * which can replace any string
+ * Return: 1 if matching 0 ortherwise
  */
 int wildcmp(char *s1, char *s2)
 {
